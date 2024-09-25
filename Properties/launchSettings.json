@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AITour_Exemplo02_dotnet": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7111",
+      "launchBrowser": false
+    }
+  }
+}
